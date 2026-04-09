@@ -1,4 +1,4 @@
-# Qt Notepad
+# 📝 Qt Notepad
 
 A simple desktop notepad application built with C++ and Qt.
 
