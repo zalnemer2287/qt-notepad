@@ -25,9 +25,10 @@ A simple desktop notepad application built with C++ and Qt.
 
 ### Option 1 (Recommended)
 1. Install Qt and Qt Creator
-2. Open the `.pro` file in Qt Creator
-3. Configure the project (Desktop Kit)
-4. Click Run
+2. Clone or download this repository
+3. Open the `.pro` file in Qt Creator
+4. Configure the project (Desktop Kit)
+5. Click Run
 
 ### Option 2 (Command Line)
 Make sure Qt is installed and available in PATH:
